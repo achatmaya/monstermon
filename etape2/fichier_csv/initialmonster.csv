@@ -1,0 +1,19 @@
+ID;Nom;Type;Point Experience;Point de vie;Poids;Taille;Points de puissance;Niveau;Espece;Capturee;Date de capture;ID Dresseur
+1;Grizzlor;2;1000;200;20;90;150;1;10;Oui;2022-12-14;2
+2;Azurika;4;2451;100;70;70;150;1;5;Non;;
+3;Crépulor;2;8402;200;80;80;250;2;3;Non;;
+4;Vortexar;4;1203;300;90;90;350;3;6;Oui;2023-07-14;3
+5;Gorgonix;3;8321;400;100;100;400;4;10;Oui;2023-06-28;5
+6;Zéphirium;3;893;500;100;100;500;5;5;Non;;4
+7;Krypthona;4;193;100;30;40;200;1;3;Non;;10
+8;Glaciarax;3;1893;170;60;80;300;2;6;Oui;2022-10-19;11
+9;Infernion;2;9903;250;100;90;400;3;6;Oui;2023-01-18;11
+10;Sylvarath;4;10000;500;150;100;500;4;6;Oui;2023-03-29;12
+11;Draconyx;2;9213;100;10;30;70;1;2;Non;;1
+12;Abominix;4;9241;180;30;40;100;2;1;Non;;3
+13;Hydrokhan;1;6000;270;40;50;200;3;2;Non;;
+14;Sombrodeus;1;7313;300;45;60;300;4;5;Oui;2023-09-11;8
+15;Nébulorok;4;513;500;50;65;500;5;7;Oui;2023-06-28;8
+16;Terramorth;3;64;200;25;90;150;2;8;Non;;8
+17;Zombalith;2;22;100;70;50;200;3;1;Non;;7
+18;Phantasmagor;2;10;500;35;60;300;4;2;Oui;2023-08-09;9

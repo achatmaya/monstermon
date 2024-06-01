@@ -1,0 +1,30 @@
+1. 1 select => 
+" select m.id , m.nom , m.date_capturation
+from monster m 
+where capture = 2
+order by  m.date_capturation desc"
+2 .2 select =>
+
+"
+select count(m.id) number , e.nom type
+from monster
+inner join espece e on e.id_espece = m.id_espece
+groupe_by e.nom"
+
+3.3 select => 
+"
+select m.nom ,ISNULL(concat( d.nom , d.prenom) , "aucun") as nom_prenom 
+from monster m 
+left join dresseur d on d.id_dresseur = m.id_dresseur
+"
+
+4.4 select = > 
+"select v.Numero_vente , ma.nom , mo.nom , Concat(d.nom , d.prenom) , v.date_vente
+from vente v
+inner join dresseur d on d.id_dresseur = v.id_dresseur
+inner join monster mo on mon.id_monster = v.id_monster
+inner join magazin ma on ma.id_magazin = v.id_magazin
+order by v.date_vente ASC"
+
+5.5 select = > 
+"select nom , 
